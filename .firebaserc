@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "architecturelabtest2",
+    "default": "architecturelabtest2"
+  },
+  "targets": {}
+}
